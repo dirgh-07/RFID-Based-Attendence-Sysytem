@@ -1,0 +1,26 @@
+Abstract: 
+Abstract: In school, student irregular attendance is major issues which can affect on his academic performance, taking attendance in conventional way like by calling roll number or by signing on paper is very tedious and time consuming .
+On other hand when child leaves home for school parents get worried whether the child reached at school or not. 
+RFID based E- attendance and child security system can be used as solution to both problem .
+RFID radio frequency identification secure system which uses electromagnetic waves to identify the object carrying tag. 
+This system will reduce the time of taking attendance and anxiety of parent. 
+It automates the attendance system by checking attendance using RFID cards as well as informs parents when student enters and leaves the school premises. 
+In this system the student is provided with the RFID tag when student scans a card on the RFID reader the system recognizes the student data and compare with database. 
+The whole system is controlled by Arduino UNO. 
+The parents and administrator can log into the system application and check the status of their children. 
+
+
+Add Notes dor the following keywords:
+Syncronance
+UART(UNiversal Asyncronance Reciever/Transmitter)
+ The reader coil generates an electromagnetic field, which couples into the coil on the RFID tag.
+ II. ABOUT RFID TECHNOLOGY 
+ 
+In 1940 RFID was first used during World War II to identify aero-planes. 
+The objective was to use the aero-plane’s radar signal to read an identification number to identify whether they were allies or enemies.
+ During 1960-70s RFID system were still considered a secret technology used by the army to control access into sensitive areas (nuclear plants etc.) 
+ In 1980 technological developments leads to the creation of passive tags. This technology meant we no longer needed the energy to be embedded into the tag. 
+ Therefore the price of the tag and its maintenance could be significantly reduced.  
+In 1990 standardization for the interoperability of RFID equipment began.
+
+Regulators in India recently designed 865-867 as country's Ultra High Frequency(UHF) RFID spectrum.
